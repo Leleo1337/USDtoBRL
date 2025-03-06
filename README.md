@@ -4,6 +4,7 @@
 
 An app to track the BRL to USD exchange rate
 
-Used AwesomeApi for currency live tracking 
+It uses AwesomeAPI to automatically update exchange rates.
+
 <br>
 [awesomeApi](https://docs.awesomeapi.com.br/api-de-moedas)
